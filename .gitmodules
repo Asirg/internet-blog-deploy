@@ -1,0 +1,3 @@
+[submodule "internet-blog-web"]
+	path = internet-blog-web
+	url = https://github.com/Asirg/internet-blog-web.git
